@@ -1,3 +1,4 @@
+
 PImage fighterImg;
 PImage treasureImg;
 PImage hpImg;
